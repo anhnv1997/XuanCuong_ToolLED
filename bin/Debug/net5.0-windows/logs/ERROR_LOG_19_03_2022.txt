@@ -1,0 +1,161 @@
+ERROR 2022-03-19 08:10:43.394 - Led Controls is already running!- Multiple Instances
+ERROR 2022-03-19 10:26:25.719 - Led Controls is already running!- Multiple Instances
+ERROR 2022-03-19 14:04:33.786 - Led Controls is already running!- Multiple Instances
+ERROR 2022-03-19 14:33:22.924 - Send Data to 192.168.1.200 Datas:5,5,5 Error
+ERROR 2022-03-19 14:33:25.423 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:33:27.421 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:33:50.922 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:33:52.924 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:34:13.926 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:34:15.929 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:34:24.926 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:34:26.931 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:34:28.926 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:34:30.929 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:34:32.929 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:34:34.929 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:35:54.422 - Send Data to 192.168.1.200 Datas:6,6,6 Error
+ERROR 2022-03-19 14:35:56.422 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 14:35:58.425 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 14:36:00.422 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 14:36:02.429 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 14:36:04.431 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 14:36:06.428 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 14:36:08.431 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:36:10.432 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:36:12.430 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:36:14.429 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:36:16.428 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 14:36:18.436 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 14:36:36.927 - Send Data to 192.168.1.200 Datas:7,7,7 Error
+ERROR 2022-03-19 14:36:38.929 - Send Data to 192.168.1.200 Datas:onl-d10ga,onl-D12GA,onl-D11GA Error
+ERROR 2022-03-19 14:36:40.925 - Send Data to 192.168.1.200 Datas:onl-d10ga,onl-D12GA,onl-D11GA Error
+ERROR 2022-03-19 14:36:42.935 - Send Data to 192.168.1.200 Datas:9372,9371,6908 Error
+ERROR 2022-03-19 14:36:44.926 - Send Data to 192.168.1.200 Datas:9372,9371,6908 Error
+ERROR 2022-03-19 14:36:46.923 - Send Data to 192.168.1.200 Datas:89H-01073,89H-00798,98C-22033 Error
+ERROR 2022-03-19 14:36:48.932 - Send Data to 192.168.1.200 Datas:89H-01073,89H-00798,98C-22033 Error
+ERROR 2022-03-19 14:36:50.925 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:36:52.929 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:36:54.930 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 14:36:56.930 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 14:36:58.925 - Send Data to 192.168.1.200 Datas:Hoàn Thành,Chưa Xác Nhận,Hoàn Thành Error
+ERROR 2022-03-19 14:37:00.927 - Send Data to 192.168.1.200 Datas:Hoàn Thành,Chưa Xác Nhận,Hoàn Thành Error
+ERROR 2022-03-19 14:59:50.430 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 14:59:52.436 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 14:59:54.431 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 14:59:56.424 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 14:59:58.435 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 15:00:00.431 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 15:00:02.436 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 15:00:04.431 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:00:06.458 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:00:08.432 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:00:10.426 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:00:12.425 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 15:00:14.424 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 15:00:32.925 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:00:34.936 - Send Data to 192.168.1.200 Datas:onl-d10ga,onl-D12GA,onl-D11GA Error
+ERROR 2022-03-19 15:00:36.929 - Send Data to 192.168.1.200 Datas:onl-d10ga,onl-D12GA,onl-D11GA Error
+ERROR 2022-03-19 15:00:38.926 - Send Data to 192.168.1.200 Datas:9372,9371,6908 Error
+ERROR 2022-03-19 15:00:40.931 - Send Data to 192.168.1.200 Datas:9372,9371,6908 Error
+ERROR 2022-03-19 15:00:42.926 - Send Data to 192.168.1.200 Datas:89H-01073,89H-00798,98C-22033 Error
+ERROR 2022-03-19 15:00:44.927 - Send Data to 192.168.1.200 Datas:89H-01073,89H-00798,98C-22033 Error
+ERROR 2022-03-19 15:00:46.934 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:00:48.923 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:00:50.932 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:00:52.928 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:00:54.928 - Send Data to 192.168.1.200 Datas:Hoàn Thành,Chưa Xác Nhận,Hoàn Thành Error
+ERROR 2022-03-19 15:00:56.934 - Send Data to 192.168.1.200 Datas:Hoàn Thành,Chưa Xác Nhận,Hoàn Thành Error
+ERROR 2022-03-19 15:01:15.432 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:01:17.430 - Send Data to 192.168.1.200 Datas:onl-D12GA,onl-D11GA,1 Error
+ERROR 2022-03-19 15:01:19.430 - Send Data to 192.168.1.200 Datas:onl-D12GA,onl-D11GA,1 Error
+ERROR 2022-03-19 15:02:26.926 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:02:28.937 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 15:02:30.929 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 15:02:32.927 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 15:02:34.925 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 15:02:36.933 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 15:02:38.922 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 15:02:40.927 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:02:42.922 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:02:44.931 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:02:46.929 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:02:48.929 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 15:02:50.926 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 15:07:00.928 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:07:02.925 - Send Data to 192.168.1.200 Datas:4,5,onl-d10ga Error
+ERROR 2022-03-19 15:07:04.934 - Send Data to 192.168.1.200 Datas:4,5,onl-d10ga Error
+ERROR 2022-03-19 15:07:06.927 - Send Data to 192.168.1.200 Datas:bs4,bsTest51234,9372 Error
+ERROR 2022-03-19 15:07:08.924 - Send Data to 192.168.1.200 Datas:bs4,bsTest51234,9372 Error
+ERROR 2022-03-19 15:07:10.931 - Send Data to 192.168.1.200 Datas:12H-00619,12H-00701,89H-01073 Error
+ERROR 2022-03-19 15:07:12.928 - Send Data to 192.168.1.200 Datas:12H-00619,12H-00701,89H-01073 Error
+ERROR 2022-03-19 15:07:14.922 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:07:16.932 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:07:18.935 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:07:20.928 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:07:22.932 - Send Data to 192.168.1.200 Datas:Đang Thực Hiện,Chờ Duyệt,Hoàn Thành Error
+ERROR 2022-03-19 15:07:24.931 - Send Data to 192.168.1.200 Datas:Đang Thực Hiện,Chờ Duyệt,Hoàn Thành Error
+ERROR 2022-03-19 15:08:46.427 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:08:48.432 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 15:08:50.429 - Send Data to 192.168.1.200 Datas:5,onl-d10ga,onl-D12GA Error
+ERROR 2022-03-19 15:08:52.423 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 15:08:54.422 - Send Data to 192.168.1.200 Datas:bsTest51234,9372,9371 Error
+ERROR 2022-03-19 15:08:56.421 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 15:08:58.436 - Send Data to 192.168.1.200 Datas:12H-00701,89H-01073,89H-00798 Error
+ERROR 2022-03-19 15:09:00.425 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:09:02.421 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:09:04.430 - Send Data to 192.168.1.200 Datas:,, Error
+ERROR 2022-03-19 15:09:06.421 - Send Data to 192.168.1.200 Datas: , ,  Error
+ERROR 2022-03-19 15:09:08.431 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 15:09:10.433 - Send Data to 192.168.1.200 Datas:Chờ Duyệt,Hoàn Thành,Chưa Xác Nhận Error
+ERROR 2022-03-19 15:10:31.928 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:10:33.923 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:11:55.426 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:11:57.436 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:12:08.429 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:12:10.426 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:12:21.423 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:12:23.432 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:12:34.432 - Send Data to 192.168.1.200 Datas:8,1,2 Error
+ERROR 2022-03-19 15:12:36.427 - Send Data to 192.168.1.200 Datas:8,1,2 Error
+ERROR 2022-03-19 15:12:47.429 - Send Data to 192.168.1.200 Datas:1,2,3 Error
+ERROR 2022-03-19 15:12:49.430 - Send Data to 192.168.1.200 Datas:1,2,3 Error
+ERROR 2022-03-19 15:13:00.435 - Send Data to 192.168.1.200 Datas:2,3,4 Error
+ERROR 2022-03-19 15:13:02.423 - Send Data to 192.168.1.200 Datas:2,3,4 Error
+ERROR 2022-03-19 15:13:13.432 - Send Data to 192.168.1.200 Datas:3,4,5 Error
+ERROR 2022-03-19 15:13:15.432 - Send Data to 192.168.1.200 Datas:3,4,5 Error
+ERROR 2022-03-19 15:13:26.429 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:13:28.436 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:13:39.426 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:13:41.422 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:13:52.424 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:13:54.426 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:14:05.435 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:14:07.427 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:14:18.430 - Send Data to 192.168.1.200 Datas:8,1,2 Error
+ERROR 2022-03-19 15:14:20.430 - Send Data to 192.168.1.200 Datas:8,1,2 Error
+ERROR 2022-03-19 15:14:31.426 - Send Data to 192.168.1.200 Datas:1,2,3 Error
+ERROR 2022-03-19 15:14:33.429 - Send Data to 192.168.1.200 Datas:1,2,3 Error
+ERROR 2022-03-19 15:14:44.425 - Send Data to 192.168.1.200 Datas:2,3,4 Error
+ERROR 2022-03-19 15:14:46.434 - Send Data to 192.168.1.200 Datas:2,3,4 Error
+ERROR 2022-03-19 15:14:57.424 - Send Data to 192.168.1.200 Datas:3,4,5 Error
+ERROR 2022-03-19 15:14:59.427 - Send Data to 192.168.1.200 Datas:3,4,5 Error
+ERROR 2022-03-19 15:15:10.423 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:15:12.429 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:15:23.430 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:15:25.435 - Send Data to 192.168.1.200 Datas:5,6,7 Error
+ERROR 2022-03-19 15:15:36.426 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:15:38.423 - Send Data to 192.168.1.200 Datas:6,7,8 Error
+ERROR 2022-03-19 15:15:49.430 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:15:51.433 - Send Data to 192.168.1.200 Datas:7,8,1 Error
+ERROR 2022-03-19 15:16:02.425 - Send Data to 192.168.1.200 Datas:8,1,2 Error
+ERROR 2022-03-19 15:16:04.428 - Send Data to 192.168.1.200 Datas:8,1,2 Error
+ERROR 2022-03-19 15:16:15.432 - Send Data to 192.168.1.200 Datas:1,2,3 Error
+ERROR 2022-03-19 15:16:17.424 - Send Data to 192.168.1.200 Datas:1,2,3 Error
+ERROR 2022-03-19 15:28:54.432 - Send Data to 192.168.1.200 Datas:4,5,6 Error
+ERROR 2022-03-19 15:29:23.430 - Send Data to 192.168.1.200 Datas:4,5,onl-d10ga Error
+ERROR 2022-03-19 15:29:26.430 - Send Data to 192.168.1.200 Datas:4,5,onl-d10ga Error
+ERROR 2022-03-19 15:29:53.926 - Send Data to 192.168.1.200 Datas:bs4,bsTest51234,9372 Error
+ERROR 2022-03-19 15:29:56.424 - Send Data to 192.168.1.200 Datas:bs4,bsTest51234,9372 Error
+ERROR 2022-03-19 15:29:59.922 - Send Data to 192.168.1.200 Datas:12H-00619,12H-00701,89H-01073 Error
+ERROR 2022-03-19 15:30:01.923 - Send Data to 192.168.1.200 Datas:12H-00619,12H-00701,89H-01073 Error

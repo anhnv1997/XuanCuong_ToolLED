@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSQLConn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLConn>
+    <DBType />
+    <SQLServerName>171.244.0.161</SQLServerName>
+    <SQLDatabase>XuanCuong_Dev</SQLDatabase>
+    <SQLUserName>adminLogin</SQLUserName>
+    <SQLPassword>6dnLqVZIwBREQs8g1HfMcg==</SQLPassword>
+    <SQLAuthentication>SQL Server Authentication</SQLAuthentication>
+  </SQLConn>
+</ArrayOfSQLConn>

@@ -1,0 +1,13 @@
+INFO 2022-03-19 08:10:44.490 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 10:26:27.207 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 14:04:35.210 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:59:14.110 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 14:59:22.062 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:01:49.868 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:03:21.204 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:04:34.512 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:06:30.351 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:09:30.547 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:26:04.988 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:30:09.393 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-19 15:42:49.845 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe

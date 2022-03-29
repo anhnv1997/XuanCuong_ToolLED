@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolLed_XuanCuong", "ToolLed_XuanCuong.csproj", "{6272C02D-D51A-4E99-A96D-38A8B8F94547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionConfig", "..\..\iParking_new\iParking_new\ConnectionConfig\ConnectionConfig.csproj", "{36D3D9F6-B73A-4DEF-A780-73B1C9CEC338}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kztek.LedController", "..\..\..\4.WorkWithControler\1.KztekDevice\2.Led\TestLed\Kztek.LedLibrary\Kztek.LedController.csproj", "{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D3D9F6-B73A-4DEF-A780-73B1C9CEC338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D3D9F6-B73A-4DEF-A780-73B1C9CEC338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D3D9F6-B73A-4DEF-A780-73B1C9CEC338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D3D9F6-B73A-4DEF-A780-73B1C9CEC338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AD2744-7079-4283-8951-5DD5E7BD6D59}
+	EndGlobalSection
+EndGlobal

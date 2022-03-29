@@ -1,0 +1,5 @@
+INFO 2022-03-25 14:07:27.045 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-25 14:09:24.357 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-25 14:12:14.365 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-25 14:29:44.268 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
+INFO 2022-03-25 14:31:52.022 - Start Application: Startup Path: D:\2.KZTECH\5.DuAn\XuanCuong\ToolLed_XuanCuong\bin\Debug\net5.0-windows\ToolLed_XuanCuong.exe
